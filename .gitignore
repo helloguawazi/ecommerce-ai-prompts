@@ -19,3 +19,6 @@ desktop.ini
 # 临时生图缓存
 tsk_*.png
 wechat_*.png
+
+# Claude Code 本地配置
+.claude/
