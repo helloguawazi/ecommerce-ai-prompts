@@ -11,3 +11,11 @@ desktop.ini
 # 临时文件
 *.tmp
 *.log
+
+# Excel 关键词数据源（本地数据，不同步）
+*.xlsx
+*.xls
+
+# 临时生图缓存
+tsk_*.png
+wechat_*.png

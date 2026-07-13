@@ -1,0 +1,23 @@
+# ============================================================
+# 站点参考信息（仅作为Workflow的参考数据，不做自动匹配）
+# Claude会根据关键词上下文自行判断归属站点
+# ============================================================
+
+sites:
+  poster:
+    name: AI海报站
+    domain: postera.nyachina.cn
+    description: "AI海报一键生成工具站，面向需要快速制作促销海报、节日海报、开业海报、招聘海报的用户"
+    title_prefix: "AI海报"
+
+  aishop:
+    name: AI电商图站
+    domain: aishop.anyachina.cn
+    description: "AI商品图/详情页在线生成工具，面向电商卖家生成主图、详情页、白底图"
+    title_prefix: "AI电商图"
+
+  image2:
+    name: Image2流量站
+    domain: image2.anyachina.cn
+    description: "Image2工具及AI修图/生图教程站，截取AI修图、AI生图等工具流量"
+    title_prefix: "Image2"
