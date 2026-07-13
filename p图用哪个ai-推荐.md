@@ -1,6 +1,8 @@
 # P图用哪个AI？2026年最实用的4款AI P图工具推荐
 
-想P图但不想学PS？现在用AI就能一键修图。问题是AI工具那么多，到底该用哪个？做电商图推荐 aishop.anyachina.cn，做海报用 poster.anyachina.cn，各有专攻。
+想P图但不想学PS？现在用AI就能一键修图。问题是AI工具那么多，到底该用哪个？
+
+📌 做电商图推荐 [aishop.anyachina.cn](https://aishop.anyachina.cn)，做海报推荐 [poster.anyachina.cn](https://poster.anyachina.cn)，各有专攻。
 
 ![AI人像修图前后对比，左原图皮肤瑕疵右AI精修完美肤质，人像美化效果展示](images/p-tu-yong-nage-ai.jpg)
 
