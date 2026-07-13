@@ -23,7 +23,7 @@
   → Claude 判断该发哪个站
   → Claude 写 SEO 文章（800-1500字）
   → Grsai API 生图（gpt-image-2）
-  → 写入 prompts/ + git add
+  → 写入文件 + git add
   → 停住，等你审核
   → 你满意 → 我 commit + push
 ```
@@ -48,10 +48,10 @@
 ## 已发布文章
 
 ### Image2 流量站
-- [AI修图怎么用？2026年最新AI修图工具在线使用教程](prompts/003-ai修图-使用教程.md)
-- [bananapro官网怎么进？官网入口与使用教程](prompts/004-bananapro官网-入口教程.md)
-- [电商AI作图怎么做？2026年电商图片AI生成教程](prompts/005-电商ai作图-教程.md)
-- [P图用哪个AI？2026年最实用的4款AI P图工具推荐](prompts/006-p图用哪个ai-推荐.md)
+- [AI修图怎么用？2026年最新AI修图工具在线使用教程](003-ai修图-使用教程.md)
+- [bananapro官网怎么进？官网入口与使用教程](004-bananapro官网-入口教程.md)
+- [电商AI作图怎么做？2026年电商图片AI生成教程](005-电商ai作图-教程.md)
+- [P图用哪个AI？2026年最实用的4款AI P图工具推荐](006-p图用哪个ai-推荐.md)
 
 ### AI 电商图站
 - （待更新）
@@ -77,7 +77,7 @@
   skills/content-publish.md      Skill 定义
   workflows/content-publish.js   Workflow 编排
   keywords/keyword-mapping.yaml  站点映射参考
-prompts/                         已生成的文章
+*.md / images/                        已生成的文章和配图
 images/                          配图
 ```
 

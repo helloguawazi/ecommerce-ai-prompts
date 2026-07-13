@@ -2,7 +2,7 @@
 
 想用 bananapro 做电商图，却找不到官网入口？这篇教程给你整理好了。
 
-![bananapro官网入口](../images/bananapro.jpg)
+![bananapro官网入口](images/bananapro.jpg)
 
 ## bananapro 是什么？
 
