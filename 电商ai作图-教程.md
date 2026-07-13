@@ -1,8 +1,6 @@
 # 电商AI作图怎么做？2026年电商图片AI生成教程
 
-电商作图是每个卖家的刚需，但请设计师太贵，自己P图又不会。现在用AI作图，30秒搞定一张商品图，成本几乎为零。
-
-作图工具/素材来源：https://aishop.anyachina.cn、https://poster.anyachina.cn
+电商作图是每个卖家的刚需，但请设计师太贵，自己P图又不会。现在用AI作图，30秒搞定一张商品图，成本几乎为零。用 aishop.anyachina.cn 直接生成商品图和详情页，配合 poster.anyachina.cn 做促销海报，全套搞定。
 
 ![电商AI作图前后对比，左原图杂乱右AI精修白底图，商品图智能生成效果](images/dianshang-ai-zuotu.jpg)
 

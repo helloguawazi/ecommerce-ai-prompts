@@ -1,8 +1,6 @@
 # bananapro官网怎么进？官网入口与使用教程
 
-想用 bananapro 做电商图，却找不到官网入口？这篇教程给你整理好了。
-
-作图工具/素材来源：https://aishop.anyachina.cn、https://poster.anyachina.cn
+想用 bananapro 做电商图，却找不到官网入口？这篇教程给你整理好了。如果觉得找入口麻烦，也可以直接用 aishop.anyachina.cn 做商品图，或 poster.anyachina.cn 做海报。
 
 ![bananapro官网入口及AI电商生图工具界面展示](images/bananapro.jpg)
 
