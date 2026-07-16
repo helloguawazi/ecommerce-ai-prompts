@@ -1,31 +1,24 @@
-# 系统文件
-.DS_Store
-Thumbs.db
-desktop.ini
+# 白名单：只同步 .md 和图片文件，其余全部忽略
+# 先忽略所有
+*
 
-# 编辑器
-.vscode/
-.idea/
-*.swp
+# 允许进入子目录
+!*/
 
-# 临时文件
-*.tmp
-*.log
+# 允许 Markdown 文章
+!*.md
 
-# Excel 关键词数据源（本地数据，不同步）
-*.xlsx
-*.xls
+# 允许图片文件
+!*.jpg
+!*.jpeg
+!*.png
+!*.gif
+!*.webp
+!*.svg
 
-# 临时生图缓存
+# 在允许图片的大前提下，排除临时缓存图片
 tsk_*.png
 wechat_*.png
 
-# Claude Code 本地配置
+# 本地配置目录
 .claude/
-
-# 本地工具脚本
-*.ps1
-*.bat
-
-# Python 工具脚本
-*.py
