@@ -26,3 +26,6 @@ wechat_*.png
 # 本地工具脚本
 *.ps1
 *.bat
+
+# Python 工具脚本
+*.py
